@@ -32,7 +32,7 @@
 .progress-bar{
     position:absolute;
     height:4px;
-    top:5%;
+    top:20%;
     left:0;
     width:100%;
     background-color:#ccc;
@@ -40,6 +40,7 @@
 
 .progress{
     height:100%;
+    /* width:30%; */
     background-color:green;
     transition:0.2s ease;
 }
